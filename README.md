@@ -5,7 +5,7 @@ It provides validators, extractors, replacers, and a registry for custom pattern
 Honestly, I'm just tired of keeping track of different expressions. The expressions here are not _great_, but work well enough for my purposes at the moment. I plan to update them as I use the library.
 
 ## Installation
-Not on pip!
+Not on PyPi!
 
 Install from source:
 ```
@@ -88,3 +88,4 @@ A simple test_all.py script has been included. Simply run with:
 ```
 python test_all.py
 ```
+
